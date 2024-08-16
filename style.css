@@ -1,0 +1,16 @@
+#title{
+    color: brown;
+    text-align: center;
+}
+#heading1{
+    color: blue;
+}
+#heading2{
+    color: blueviolet;
+}
+#child2>h1{
+    color: brown;
+}
+#child2>h2{
+    color: rgb(26, 196, 69);
+}
